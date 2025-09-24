@@ -62,7 +62,7 @@ Este projeto é um **chatbot automatizado via WhatsApp** desenvolvido para apoia
     ```
 - Adicione os arquivos compatíveis:
 - mídias/exemplo.jpg (imagem)
-- mídias/exemplo.ogg (áudio em OPUS)
+- mídias/exemplo.mp3 (áudio em mp3)
 - mídias/exemplo.gif (GIF)
 - mídias/EGOV-Inscricao-Cadastro-Usuario-Externo.mp4 (vídeo tutorial em H.264 + AAC, <16MB)
 
