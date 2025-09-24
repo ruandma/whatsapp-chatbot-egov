@@ -18,7 +18,7 @@ Este projeto é um **chatbot automatizado via WhatsApp** desenvolvido para apoia
 - ✅ Contato direto com o **suporte técnico da EGOV**  
 - ✅ Envio de **mídias ilustrativas**:  
   - Imagem de exemplo  
-  - Áudio gravado (ex: mensagem de boas-vindas)  
+  - Áudio (ex: mensagem de boas-vindas)  
   - GIF (ex: animação de tutorial)  
 - ✅ Vídeo tutorial embutido para cadastro como **usuário externo**
 
