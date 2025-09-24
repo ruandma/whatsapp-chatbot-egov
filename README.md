@@ -46,7 +46,7 @@ Este projeto é um **chatbot automatizado via WhatsApp** desenvolvido para apoia
 
 1. **Clone ou baixe o repositório**
    ```bash
-   git clone https://github.com/seu-usuario/whatsapp-chatbot-egov.git
+   git clone https://github.com/ruandma/whatsapp-chatbot-egov.git
    cd whatsapp-chatbot-egov
    ```
 
